@@ -5,7 +5,7 @@
     play/stop, next, restart
 
     Compile: Use Make file
-    Run : ./main
+    Run : ./main,
 
 */
 
